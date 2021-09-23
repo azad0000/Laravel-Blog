@@ -1,0 +1,12 @@
+<script src="{{asset('assets/frontend')}}/js/vendor/jquery-1.12.4.min.js"></script>
+<script src="{{asset('assets/frontend')}}/js/bootstrap.min.js"></script>
+<script src="{{asset('assets/frontend')}}/js/wow.min.js"></script>
+<script src="{{asset('assets/frontend')}}/js/owl.carousel.min.js"></script>
+<script src="{{asset('assets/frontend')}}/js/jquery.nivo.slider.pack.js"></script>
+<script src="{{asset('assets/frontend')}}/js/jquery.meanmenu.js"></script>
+<script src="{{asset('assets/frontend')}}/js/isotope.pkgd.min.js"></script>
+<script src="{{asset('assets/frontend')}}/js/imagesloaded.pkgd.min.js"></script>
+<script src="{{asset('assets/frontend')}}/js/jquery.magnific-popup.min.js"></script>
+<script src="{{asset('assets/frontend')}}/js/jquery.ajaxchimp.min.js"></script>
+<script src="{{asset('assets/frontend')}}/js/plugins.js"></script>
+<script src="{{asset('assets/frontend')}}/js/main.js"></script>
